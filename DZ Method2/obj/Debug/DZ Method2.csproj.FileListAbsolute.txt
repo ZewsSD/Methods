@@ -1,0 +1,6 @@
+C:\Users\даня f\source\repos\DZ Method2\bin\Debug\DZ Method2.exe.config
+C:\Users\даня f\source\repos\DZ Method2\bin\Debug\DZ Method2.exe
+C:\Users\даня f\source\repos\DZ Method2\bin\Debug\DZ Method2.pdb
+C:\Users\даня f\source\repos\DZ Method2\obj\Debug\DZ Method2.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZ Method2\obj\Debug\DZ Method2.exe
+C:\Users\даня f\source\repos\DZ Method2\obj\Debug\DZ Method2.pdb
