@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ Method", "DZ Method.csproj", "{A68BFE81-CF1C-4BE6-8032-7B3EBC18CFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ Method2", "..\DZ Method2\DZ Method2.csproj", "{78D329A8-DD63-4EB9-90A7-3A34683654CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68BFE81-CF1C-4BE6-8032-7B3EBC18CFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68BFE81-CF1C-4BE6-8032-7B3EBC18CFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68BFE81-CF1C-4BE6-8032-7B3EBC18CFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68BFE81-CF1C-4BE6-8032-7B3EBC18CFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D329A8-DD63-4EB9-90A7-3A34683654CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D329A8-DD63-4EB9-90A7-3A34683654CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D329A8-DD63-4EB9-90A7-3A34683654CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D329A8-DD63-4EB9-90A7-3A34683654CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F377637E-BD0F-4D66-A9A4-3CB409A7843B}
+	EndGlobalSection
+EndGlobal
