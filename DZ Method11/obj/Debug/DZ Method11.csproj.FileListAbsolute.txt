@@ -4,3 +4,4 @@ C:\Users\даня f\source\repos\DZ Method11\bin\Debug\DZ Method11.pdb
 C:\Users\даня f\source\repos\DZ Method11\obj\Debug\DZ Method11.csproj.CoreCompileInputs.cache
 C:\Users\даня f\source\repos\DZ Method11\obj\Debug\DZ Method11.exe
 C:\Users\даня f\source\repos\DZ Method11\obj\Debug\DZ Method11.pdb
+C:\Users\даня f\source\repos\DZ Method11\obj\Debug\DZ Method11.csprojAssemblyReference.cache

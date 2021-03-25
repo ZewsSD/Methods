@@ -45,7 +45,7 @@ namespace DZ_Method11
             {
                 for (int j = 0; j < array.GetLength(1); j++)
                 {
-                    if (i == j)
+                    if (i == j || i + j == array.GetLength(0))
                     {
                         sum += array[i, j];
                     }
