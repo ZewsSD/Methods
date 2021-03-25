@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\DZ Method13\bin\Debug\DZ Method13.exe.config
+C:\Users\даня f\source\repos\DZ Method13\bin\Debug\DZ Method13.exe
+C:\Users\даня f\source\repos\DZ Method13\bin\Debug\DZ Method13.pdb
+C:\Users\даня f\source\repos\DZ Method13\obj\Debug\DZ Method13.csprojAssemblyReference.cache
+C:\Users\даня f\source\repos\DZ Method13\obj\Debug\DZ Method13.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZ Method13\obj\Debug\DZ Method13.exe
+C:\Users\даня f\source\repos\DZ Method13\obj\Debug\DZ Method13.pdb

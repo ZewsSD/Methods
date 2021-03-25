@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\DZ Method9\bin\Debug\DZ Method9.exe.config
+C:\Users\даня f\source\repos\DZ Method9\bin\Debug\DZ Method9.exe
+C:\Users\даня f\source\repos\DZ Method9\bin\Debug\DZ Method9.pdb
+C:\Users\даня f\source\repos\DZ Method9\obj\Debug\DZ Method9.csprojAssemblyReference.cache
+C:\Users\даня f\source\repos\DZ Method9\obj\Debug\DZ Method9.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZ Method9\obj\Debug\DZ Method9.exe
+C:\Users\даня f\source\repos\DZ Method9\obj\Debug\DZ Method9.pdb
